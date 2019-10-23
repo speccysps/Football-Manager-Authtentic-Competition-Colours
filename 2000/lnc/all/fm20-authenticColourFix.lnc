@@ -1,2 +1,8 @@
 #Shaun Skeen Authentic Colour Fix for Football Manager 2020
-"COMP_COLOUR_CHANGE"
+# Command   ID 0    RGB 1  RGB 2
+# "COMP_COLOUR_CHANGE"	"Person Unique ID"  0   <Foreground>    <Background>
+
+# English Premier League (Green, Purple )
+"COMP_COLOUR_CHANGE"    11  0   4 255 136   55 0 60 ""
+# UEFA Champions League (White, Blue)
+"COMP_COLOUR_CHANGE" 1301394 0 255 255 255 29 59 255 ""
