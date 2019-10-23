@@ -41,7 +41,7 @@
 "COMP_SHORT_NAME_CHANGE" 1301394 "Liga dos Campeões""Brazilian"
 
 # UEFA Europa League / Euro Cup
-"COMP_6LETTER_NAME_CHANGE" 1301394 "UEL" "english"
+"COMP_6LETTER_NAME_CHANGE" 1301396 "UEL" "english"
 "COMP_LONG_NAME_CHANGE" 1301396 "UEFA Europa League" "english"
 "COMP_SHORT_NAME_CHANGE" 1301396 "Europa League" "english"
 "COMP_LONG_NAME_CHANGE" 1301396 "UEFA Europa League" "english us"
@@ -78,7 +78,7 @@
 "COMP_SHORT_NAME_CHANGE" 1301396 "Liga Europa" "Brazilian"
 
 # UEFA Super Cup / European Super Cup
-"COMP_6LETTER_NAME_CHANGE" 1301394 "USC" "english"
+"COMP_6LETTER_NAME_CHANGE" 1301397 "USC" "english"
 "COMP_LONG_NAME_CHANGE" 1301397 "UEFA Super Cup" "english"
 "COMP_SHORT_NAME_CHANGE" 1301397 "UEFA Super Cup" "english"
 "COMP_LONG_NAME_CHANGE" 1301397 "UEFA Super Cup" "english us"
