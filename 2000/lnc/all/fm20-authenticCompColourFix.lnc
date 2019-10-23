@@ -7,7 +7,7 @@
 # UEFA European Championship (White, Blue)
 "COMP_COLOUR_CHANGE" 1301388 0 255 255 255 19 131 146 ""
 # FIFA Club World Cup (Gold, Blue)
-"COMP_COLOUR_CHANGE" 121092 0 47 52 122 47 52 122 ""
+"COMP_COLOUR_CHANGE" 121092 0 220 169 47 1 29 79 ""
 
 # English Premier League (Green, Purple)
 "COMP_COLOUR_CHANGE" 11 0 4 255 136 55 0 60 ""
@@ -17,6 +17,8 @@
 "COMP_COLOUR_CHANGE" 1301396 0 255 163 74 22 22 22 ""
 # UEFA Super Cup (White, Blue)
 "COMP_COLOUR_CHANGE" 1301397 0 255 255 255 1 29 79""
+# UEFA Youth League (Blue, White)
+"COMP_COLOUR_CHANGE" 214404 0 40 40 224 255 255 255""
 
 # U23 Competition
 # Premier League 2 (Green, Purple)
