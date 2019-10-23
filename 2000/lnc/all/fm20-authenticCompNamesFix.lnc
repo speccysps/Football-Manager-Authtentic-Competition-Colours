@@ -6,7 +6,7 @@
 # UEFA Champions League / European Champions Cup
 "COMP_6LETTER_NAME_CHANGE" 1301394 "UCL" "english"
 "COMP_LONG_NAME_CHANGE" 1301394 "UEFA Champions League" "english"
-"COMP_SHORT_NAME_CHANGE" 1301394 "UEFA Champions League" "english"
+"COMP_SHORT_NAME_CHANGE" 1301394 "Champions League" "english"
 "COMP_LONG_NAME_CHANGE" 1301394 "UEFA Champions League" "english US"
 "COMP_SHORT_NAME_CHANGE" 1301394 "Champions League" "english US"
 "COMP_LONG_NAME_CHANGE" 1301394 "Ligue des champions de l'UEFA" "french"
@@ -80,9 +80,9 @@
 # UEFA Super Cup / European Super Cup
 "COMP_6LETTER_NAME_CHANGE" 1301397 "USC" "english"
 "COMP_LONG_NAME_CHANGE" 1301397 "UEFA Super Cup" "english"
-"COMP_SHORT_NAME_CHANGE" 1301397 "UEFA Super Cup" "english"
+"COMP_SHORT_NAME_CHANGE" 1301397 "Super Cup" "english"
 "COMP_LONG_NAME_CHANGE" 1301397 "UEFA Super Cup" "english us"
-"COMP_SHORT_NAME_CHANGE" 1301397 "UEFA Super Cup" "english us"
+"COMP_SHORT_NAME_CHANGE" 1301397 "Super Cup" "english us"
 "COMP_LONG_NAME_CHANGE" 1301397 "Supercoupe de l'UEFA" "french"
 "COMP_SHORT_NAME_CHANGE" 1301397 "Supercoupe de l'UEFA" "french"
 "COMP_LONG_NAME_CHANGE" 1301397 "Supercoppa UEFA" "italian"
@@ -217,6 +217,12 @@
 "COMP_6LETTER_NAME_CHANGE"  95041301 "CL" ""
 "COMP_LONG_NAME_CHANGE"  95041301 "EFL Central League" ""
 "COMP_SHORT_NAME_CHANGE"  95041301 "EFL Central League" ""
+"COMP_6LETTER_NAME_CHANGE"  95041690 "CLN" ""
+"COMP_LONG_NAME_CHANGE"  95041690 "EFL Central League" ""
+"COMP_SHORT_NAME_CHANGE"  95041690 "EFL Central League" ""
+"COMP_6LETTER_NAME_CHANGE"  95041689 "CLS" ""
+"COMP_LONG_NAME_CHANGE"  95041689 "EFL Central League" ""
+"COMP_SHORT_NAME_CHANGE"  95041689 "EFL Central League" ""
 
 # England U23 Cups
 "COMP_6LETTER_NAME_CHANGE"  89053889 "PLC" ""
@@ -224,4 +230,4 @@
 "COMP_SHORT_NAME_CHANGE"  89053889 "Premier League Cup" ""
 "COMP_6LETTER_NAME_CHANGE"  95041319 "IC" ""
 "COMP_LONG_NAME_CHANGE"  95041319 "Premier League International Cup" ""
-"COMP_SHORT_NAME_CHANGE"  95041319 "PL International Cup" ""
+"COMP_SHORT_NAME_CHANGE"  95041319 "International Cup" ""
