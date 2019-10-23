@@ -3,6 +3,8 @@
 # "COMP_LONG_NAME_CHANGE" "" ""
 # "COMP_SHORT_NAME_CHANGE" "" ""
 
+## UEFA / Europe Clubs
+
 # UEFA Champions League / European Champions Cup
 "COMP_6LETTER_NAME_CHANGE" 1301394 "UCL" "english"
 "COMP_LONG_NAME_CHANGE" 1301394 "UEFA Champions League" "english"
@@ -111,6 +113,45 @@
 "COMP_SHORT_NAME_CHANGE" 1301397 "Суперкубок УЕФА" "russian"
 "COMP_LONG_NAME_CHANGE" 1301397 "Super Copa da UEFA" "Brazilian"
 "COMP_SHORT_NAME_CHANGE" 1301397 "Super Copa da UEFA" "Brazilian"
+
+# UEFA Youth League
+"COMP_6LETTER_NAME_CHANGE" 214404 "YL" ""
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "english"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "english"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "english us"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "english us"
+"COMP_LONG_NAME_CHANGE" 214404 "Ligue de la jeunesse de l'UEFA" "french"
+"COMP_SHORT_NAME_CHANGE" 214404 "Ligue de la jeunesse de l'UEFA" "french"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "italian"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "italian"
+"COMP_LONG_NAME_CHANGE" 214404 "Liga Juvenil de la UEFA" "spanish"
+"COMP_SHORT_NAME_CHANGE" 214404 "Liga Juvenil de la UEFA" "spanish"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "czech"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "czech"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "danish"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "danish"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "greek"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "greek"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "dutch"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "dutch"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "Norwegian"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "Norwegian"
+"COMP_LONG_NAME_CHANGE" 214404 "Liga Młodzieżowa UEFA" "polish"
+"COMP_SHORT_NAME_CHANGE" 214404 "Liga Młodzieżowa UEFA" "polish"
+"COMP_LONG_NAME_CHANGE" 214404 "Liga Jovem da UEFA" "Portuguese"
+"COMP_SHORT_NAME_CHANGE" 214404 "Liga Jovem da UEFA" "Portuguese"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Youth League" "Swedish"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Youth League" "Swedish"
+"COMP_LONG_NAME_CHANGE" 214404 "UEFA Gençlik Ligi" "turkish"
+"COMP_SHORT_NAME_CHANGE" 214404 "UEFA Gençlik Ligi" "Turkish"
+"COMP_LONG_NAME_CHANGE" 214404 "Юношеская лига УЕФА" "russian"
+"COMP_SHORT_NAME_CHANGE" 214404 "Юношеская лига УЕФА" "russian"
+"COMP_LONG_NAME_CHANGE" 214404 "Liga Jovem da UEFA" "Brazilian"
+"COMP_SHORT_NAME_CHANGE" 214404 "Liga Jovem da UEFA" "Brazilian"
+
+# NextGen Series
+"COMP_LONG_NAME_CHANGE" 209137 "NextGen Series" ""
+"COMP_SHORT_NAME_CHANGE" 209137 "NextGen Series" ""
 
 ## Europe
 
