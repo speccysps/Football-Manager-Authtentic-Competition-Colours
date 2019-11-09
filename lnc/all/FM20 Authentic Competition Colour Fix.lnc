@@ -61,7 +61,24 @@
 ## Italy
 <!-- Start -->
 ### Serie A (White, Blue)
-"COMP_COLOUR_CHANGE" 32 0 255 255 255 0 132 209""
+"COMP_COLOUR_CHANGE" 32 0 255 255 255 15 121 204 ""
+### Serie B (White, Green)
+"COMP_COLOUR_CHANGE" 33 0 255 255 255 42 140 48 ""
+### Lega Pro (Blue, Silver)
+"COMP_COLOUR_CHANGE" 43127171 0 14 90 168 185 179 174 ""
+### Serie C Group A (Blue, Silver)
+"COMP_COLOUR_CHANGE" 43127172 0 14 90 168 185 179 174 ""
+### Serie C Group B (Blue, Silver)
+"COMP_COLOUR_CHANGE" 43127173 0 14 90 168 185 179 174 ""
+### Serie C Group C (Blue, Silver)
+"COMP_COLOUR_CHANGE" 43127174 0 14 90 168 185 179 174 ""
+### Serie C Group C (Blue, Silver)
+"COMP_COLOUR_CHANGE" 43127174 0 14 90 168 185 179 174 ""
+
+### Coppa Italia (Blue, White)
+"COMP_COLOUR_CHANGE" 1301412 0 8 47 132 255 255 255 ""
+### Supercoppa Italia (Blue, White)
+"COMP_COLOUR_CHANGE" 1301414 0 8 47 132 255 255 255 ""
 <!-- End -->
 
 ## France
