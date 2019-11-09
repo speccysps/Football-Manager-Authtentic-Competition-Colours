@@ -42,14 +42,15 @@
 ### FA Community Shield
 ### EFL Trophy/Leasing.com Trophy (EFL Brand, White)
 "COMP_COLOUR_CHANGE" 1301429 0 34 136 143 255 255 255 ""
-
 ### FA Trophy
 <!-- End -->
 
 ## Spain
 <!-- Start -->
-### La Liga (Red, Black)
-"COMP_COLOUR_CHANGE" 67 0 223 40 49 15 26 32""
+### La Liga (Blue, Black)
+"COMP_COLOUR_CHANGE" 67 0 143 209 224 11 16 19 ""
+### La Liga 2 (Red, Black)
+"COMP_COLOUR_CHANGE" 68 0 217 0 13 11 16 19 ""
 <!-- End -->
 
 ## Italy
