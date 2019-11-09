@@ -48,9 +48,9 @@
 ## Spain
 <!-- Start -->
 ### La Liga (Drover, Black)
-"COMP_COLOUR_CHANGE" 67 0 237 251 183 11 16 19 ""
+"COMP_COLOUR_CHANGE" 67 0 237 251 183 20 23 25 ""
 ### La Liga 2 (Red, Black)
-"COMP_COLOUR_CHANGE" 68 0 217 0 13 11 16 19 ""
+"COMP_COLOUR_CHANGE" 68 0 217 0 13 20 23 25 ""
 
 ### Copa el Rey (Gold, Red)
 "COMP_COLOUR_CHANGE" 1301422 0 249 200 104 174 0 35 ""
@@ -83,6 +83,25 @@
 <!-- Start -->
 ### Ligue 1 (Yellow, Blue)
 "COMP_COLOUR_CHANGE" 16 0 214 220 29 12 27 53""
+### Ligue 2 (White, Ligue 2)
+"COMP_COLOUR_CHANGE" 17 0 255 255 255 111 127 96 ""
+### Division 3 (White, Blue)
+"COMP_COLOUR_CHANGE" 18 0 255 255 255 34 163 222 ""
+### Division 4/National 2 (White, Blue)
+"COMP_COLOUR_CHANGE" 145438 0 255 255 255 34 163 222 ""
+### Division 4/National 2 Group A (White, Blue)
+"COMP_COLOUR_CHANGE" 19 0 255 255 255 34 163 222 ""
+### Division 4/National 2 Group B (White, Blue)
+"COMP_COLOUR_CHANGE" 914522 0 255 255 255 34 163 222 ""
+### Division 4/National 2 Group C (White, Blue)
+"COMP_COLOUR_CHANGE" 914523 0 255 255 255 34 163 222 ""
+### Division 4/National 2 Group D (White, Blue)
+"COMP_COLOUR_CHANGE" 914524 0 255 255 255 34 163 222 ""
+
+### Coupe de France
+### Coupe de la Ligue/French League Cup
+### Trophée des Champions (White, Gold)
+"COMP_COLOUR_CHANGE" 109288 0 255 255 255 196 154 59 ""
 <!-- End -->
 
 ## Germany
