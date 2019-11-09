@@ -51,6 +51,11 @@
 "COMP_COLOUR_CHANGE" 67 0 143 209 224 11 16 19 ""
 ### La Liga 2 (Red, Black)
 "COMP_COLOUR_CHANGE" 68 0 217 0 13 11 16 19 ""
+
+### Copa el Rey (Gold, Red)
+"COMP_COLOUR_CHANGE" 1301422 0 249 200 104 174 0 35 ""
+### Supercopa De Espana (Gold, Blue)
+"COMP_COLOUR_CHANGE" 1301423 0 249 200 104 52 169 192 ""
 <!-- End -->
 
 ## Italy
