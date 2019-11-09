@@ -40,8 +40,8 @@
 ### The FA Cup
 ### EFL Cup/Carabao Cup ()
 ### FA Community Shield
-### EFL Trophy/Leasing.com Trophy (EFL Brand, Dark Purple)
-"COMP_COLOUR_CHANGE" 1301429 0 45 23 68 34 136 143 ""
+### EFL Trophy/Leasing.com Trophy (EFL Brand, White)
+"COMP_COLOUR_CHANGE" 1301429 0 34 136 143 255 255 255 ""
 
 ### FA Trophy
 <!-- End -->
