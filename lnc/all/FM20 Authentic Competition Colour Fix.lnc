@@ -1,6 +1,6 @@
 # Shaun Skeen Authentic Colour Fix for Football Manager 2020
-# Command ID 0 RGB 1 RGB 2
-# "COMP_COLOUR_CHANGE" "Person Unique ID" 0 <Foreground> <Background>
+## Command ID 0 RGB 1 RGB 2
+## "COMP_COLOUR_CHANGE" "Person Unique ID" 0 <Foreground> <Background>
 
 # International
 # ------------------------------------------------------------------
