@@ -2,67 +2,102 @@
 # Command ID 0 RGB 1 RGB 2
 # "COMP_COLOUR_CHANGE" "Person Unique ID" 0 <Foreground> <Background>
 
-# FIFA World Cup (White, Blue)
+# International
+# ------------------------------------------------------------------
+<!-- Start -->
+### FIFA World Cup (White, Blue)
 "COMP_COLOUR_CHANGE" 1301385 0 255 255 255 44 87 138 ""
-# UEFA European Championship (White, Blue)
+### UEFA European Championship (White, Blue)
 "COMP_COLOUR_CHANGE" 1301388 0 255 255 255 19 131 146 ""
-# FIFA Club World Cup (Gold, Blue)
-"COMP_COLOUR_CHANGE" 121092 0 220 169 47 1 29 79 ""
+<!-- End -->
 
-# English Premier League (Green, Purple)
-"COMP_COLOUR_CHANGE" 11 0 4 255 136 55 0 60 ""
-# UEFA Champions League (White, Blue)
+# Club
+# ------------------------------------------------------------------
+<!-- Start -->
+### UEFA Champions League (White, Blue)
 "COMP_COLOUR_CHANGE" 1301394 0 255 255 255 29 59 255 ""
-# UEFA Europa League (Orange, Black)
+### UEFA Europa League (Orange, Black)
 "COMP_COLOUR_CHANGE" 1301396 0 255 163 74 22 22 22 ""
-# UEFA Super Cup (White, Blue)
+### UEFA Super Cup (White, Blue)
 "COMP_COLOUR_CHANGE" 1301397 0 255 255 255 1 29 79""
-# UEFA Youth League (Blue, White)
-"COMP_COLOUR_CHANGE" 214404 0 40 40 224 255 255 255""
+### FIFA Club World Cup (Gold, Blue)
+"COMP_COLOUR_CHANGE" 121092 0 220 169 47 1 29 79 ""
+<!-- End -->
 
-# U23 Competition
-# Premier League 2 (Green, Purple)
+# Europe
+# ------------------------------------------------------------------
+## England
+<!-- Start -->
+### Premier League (Green, Purple)
+"COMP_COLOUR_CHANGE" 11 0 4 255 136 55 0 60 ""
+<!-- End -->
+
+## Spain
+<!-- Start -->
+### La Liga (Red, Black)
+"COMP_COLOUR_CHANGE" 67 0 223 40 49 15 26 32""
+<!-- End -->
+
+## Italy
+<!-- Start -->
+### Serie A (White, Blue)
+"COMP_COLOUR_CHANGE" 32 0 255 255 255 0 132 209""
+<!-- End -->
+
+## France
+<!-- Start -->
+### Ligue 1 (Yellow, Blue)
+"COMP_COLOUR_CHANGE" 16 0 214 220 29 12 27 53""
+<!-- End -->
+
+## Germany
+<!-- Start -->
+<!-- End -->
+
+# Youth
+# ------------------------------------------------------------------
+<!-- Start -->
+### UEFA Youth League (Blue, White)
+"COMP_COLOUR_CHANGE" 214404 0 40 40 224 255 255 255""
+<!-- End -->
+
+# Europe
+# ------------------------------------------------------------------
+<!-- Start -->
+## England
+### Premier League 2 (Green, Purple)
 "COMP_COLOUR_CHANGE" 95041956 0 4 255 136 55 0 60 ""
-# Premier League 2 Divison One (Green, Purple)
+### Premier League 2 Divison One (Green, Purple)
 "COMP_COLOUR_CHANGE" 95041291 0 4 255 136 55 0 60 ""
-# Premier League 2 Divison Two (Green, Purple)
+### Premier League 2 Divison Two (Green, Purple)
 "COMP_COLOUR_CHANGE" 95041295 0 4 255 136 55 0 60 ""
-# Premier League Cup (Pink, Purple)
+### Premier League Cup (Pink, Purple)
 "COMP_COLOUR_CHANGE" 89053889 0 255 40 130 55 0 60 ""
-# Premier League International Cup (White, Purple)
+### Premier League International Cup (White, Purple)
 "COMP_COLOUR_CHANGE" 95041319 0 255 255 255 55 0 60 ""
-# Premier League Professional Development League (White, Purple)
+### Premier League Professional Development League (White, Purple)
 "COMP_COLOUR_CHANGE" 95041298 0 255 255 255 55 0 60 ""
-# EFL Cental League (White, Blue)
+### EFL Cental League (White, Blue)
 "COMP_COLOUR_CHANGE" 95041301 0 255 255 255 0 20 137 ""
 "COMP_COLOUR_CHANGE" 95041690 0 255 255 255 0 20 137 ""
 "COMP_COLOUR_CHANGE" 95041689 0 255 255 255 0 20 137 ""
 
-# U18 Competition
-# U18 Premier League (Green, Purple)
+### U18 Premier League (Green, Purple)
 "COMP_COLOUR_CHANGE" 95041306 0 4 255 136 55 0 60 ""
 "COMP_COLOUR_CHANGE" 95041307 0 4 255 136 55 0 60 ""
 "COMP_COLOUR_CHANGE" 95041308 0 4 255 136 55 0 60 ""
-# U18 Premier League Professional Development League (White, Purple)
+### U18 Premier League Professional Development League (White, Purple)
 "COMP_COLOUR_CHANGE" 95041309 0 255 255 255 55 0 60 ""
 "COMP_COLOUR_CHANGE" 95041310 0 255 255 255 55 0 60 ""
 "COMP_COLOUR_CHANGE" 95041311 0 255 255 255 55 0 60 ""
-# U18 EFL Youth Alliance (White, Blue)
+### U18 EFL Youth Alliance (White, Blue)
 "COMP_COLOUR_CHANGE" 219424 0 255 255 255 0 20 137 ""
 "COMP_COLOUR_CHANGE" 95041313 0 255 255 255 0 20 137 ""
 "COMP_COLOUR_CHANGE" 95041314 0 255 255 255 0 20 137 ""
 "COMP_COLOUR_CHANGE" 95041315 0 255 255 255 0 20 137 ""
 "COMP_COLOUR_CHANGE" 95041316 0 255 255 255 0 20 137 ""
-# U18 Premier League Cup (Pink, Purple)
+### U18 Premier League Cup (Pink, Purple)
 "COMP_COLOUR_CHANGE" 219715 0 255 40 130 55 0 60 ""
-# U18 Youth Alliance Cup (White, Red)
+### U18 Youth Alliance Cup (White, Red)
 "COMP_COLOUR_CHANGE" 95041312 0 255 255 255 177 15 41""
-
-# La Liga (Red, Black)
-"COMP_COLOUR_CHANGE" 67 0 223 40 49 15 26 32""
-
-# Serie A (White, Blue)
-"COMP_COLOUR_CHANGE" 32 0 255 255 255 0 132 209""
-
-# Ligue 1 (Yellow, Blue)
-"COMP_COLOUR_CHANGE" 16 0 214 220 29 12 27 53""
+<!-- End -->
