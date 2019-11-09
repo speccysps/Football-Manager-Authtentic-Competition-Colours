@@ -65,7 +65,7 @@
 ### Serie B (White, Green)
 "COMP_COLOUR_CHANGE" 33 0 255 255 255 42 140 48 ""
 ### Lega Pro (Blue, Silver)
-"COMP_COLOUR_CHANGE" 43127171 0 14 90 168 185 179 174 ""
+"COMP_COLOUR_CHANGE" 43127171 0 255 255 255 14 118 189 ""
 ### Serie C Group A (White, Blue)
 "COMP_COLOUR_CHANGE" 43127172 0 255 255 255 14 118 189 ""
 ### Serie C Group B (White, Blue)
