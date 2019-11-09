@@ -47,8 +47,8 @@
 
 ## Spain
 <!-- Start -->
-### La Liga (Blue, Black)
-"COMP_COLOUR_CHANGE" 67 0 143 209 224 11 16 19 ""
+### La Liga (Drover, Black)
+"COMP_COLOUR_CHANGE" 67 0 237 251 183 11 16 19 ""
 ### La Liga 2 (Red, Black)
 "COMP_COLOUR_CHANGE" 68 0 217 0 13 11 16 19 ""
 
@@ -66,14 +66,12 @@
 "COMP_COLOUR_CHANGE" 33 0 255 255 255 42 140 48 ""
 ### Lega Pro (Blue, Silver)
 "COMP_COLOUR_CHANGE" 43127171 0 14 90 168 185 179 174 ""
-### Serie C Group A (Blue, Silver)
-"COMP_COLOUR_CHANGE" 43127172 0 14 90 168 185 179 174 ""
-### Serie C Group B (Blue, Silver)
-"COMP_COLOUR_CHANGE" 43127173 0 14 90 168 185 179 174 ""
-### Serie C Group C (Blue, Silver)
-"COMP_COLOUR_CHANGE" 43127174 0 14 90 168 185 179 174 ""
-### Serie C Group C (Blue, Silver)
-"COMP_COLOUR_CHANGE" 43127174 0 14 90 168 185 179 174 ""
+### Serie C Group A (White, Blue)
+"COMP_COLOUR_CHANGE" 43127172 0 255 255 255 14 118 189 ""
+### Serie C Group B (White, Blue)
+"COMP_COLOUR_CHANGE" 43127173 0 255 255 255 14 118 189 ""
+### Serie C Group C (White, Blue)
+"COMP_COLOUR_CHANGE" 43127174 0 255 255 255 14 118 189 ""
 
 ### Coppa Italia (Blue, White)
 "COMP_COLOUR_CHANGE" 1301412 0 8 47 132 255 255 255 ""
