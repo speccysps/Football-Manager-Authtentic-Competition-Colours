@@ -30,6 +30,20 @@
 <!-- Start -->
 ### Premier League (Green, Purple)
 "COMP_COLOUR_CHANGE" 11 0 4 255 136 55 0 60 ""
+### Championship
+### League 1
+### League 2
+### National League
+### National League North
+### National League South
+
+### The FA Cup
+### EFL Cup/Carabao Cup ()
+### FA Community Shield
+### EFL Trophy/Leasing.com Trophy (EFL Brand, Dark Purple)
+"COMP_COLOUR_CHANGE" 1301429 0 45 23 68 34 136 143 ""
+
+### FA Trophy
 <!-- End -->
 
 ## Spain
