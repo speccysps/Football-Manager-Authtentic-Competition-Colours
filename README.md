@@ -1,5 +1,20 @@
 # fm-authenticLicenceFix
-Fix fake name of competitions, colours, club names and awards with their real names in Football Manager.
 
 ![Image of Licence Fix](https://i.ibb.co/hVhcTFx/Screenshot-2019-10-23-09-24-32.png)
-![Image of UEFA Europa League](https://i.ibb.co/s26tW6V/Screenshot-2019-10-23-09-50-03.png)
+
+## How to fix competition colours in FM 2020
+
+1. Close or Quit the game (f the game is running).
+2. Extract the contents of the pack to a temporary location.
+3. Find the latest database folder (2001) 
+### Windows
+```
+\Program Files (x86)\Steam\steamapps\common\Football Manager 2020\data\database\db\2001\
+```
+### macOS
+```
+/Users/[username]/Library/Application Support/Steam/steamapps/common/Football Manager 2020/database/data/db/2001/
+```
+
+4. Open the folder named `lnc` and then click into the `all` sub-folder. 
+5. Move the file you extracted into the `all` folder within `database\db\2001\lnc\all\`
