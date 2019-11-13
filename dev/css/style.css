@@ -10648,12 +10648,9 @@ body {
       align-self: center;
 }
 
-.title-content {
-  margin: 0.5rem 0;
-}
-
 .title-content h2 {
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 1.5rem;
 }
 /*# sourceMappingURL=style.css.map */
