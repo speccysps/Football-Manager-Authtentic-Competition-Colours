@@ -5,3 +5,13 @@
 body {
     font-family: $font-primary;
 }
+
+.title-bar {
+    background: red;
+    height: 6rem;
+}
+
+.navigation.primary-btn {
+    background: blue;
+    height: 100%;
+}

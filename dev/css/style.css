@@ -10565,4 +10565,14 @@ a.text-dark:hover, a.text-dark:focus {
 body {
   font-family: "Libre Franklin", -apple-system, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
+
+.title-bar {
+  background: red;
+  height: 6rem;
+}
+
+.navigation.primary-btn {
+  background: blue;
+  height: 100%;
+}
 /*# sourceMappingURL=style.css.map */
