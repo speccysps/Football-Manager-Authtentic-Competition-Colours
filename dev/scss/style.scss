@@ -7,31 +7,47 @@ body {
 }
 
 .title-bar {
-    background: red;
-    height: 6rem;
+    background: lightblue;
+    padding: 0.5rem 0;
 }
 
-.primary-btn {}
+.btn-navigation.primary-nav {
 
-.navigation {
-    height: 100%;
-    width: 100px;
 
-    .fa {
-        color: blue
+    .fa-arrow-left {
+        grid-area: left;
     }
-}
 
-.logo {
-    height: inherit;
-    padding: 0.5rem;
+    .fa-arrow-right {
+        grid-area: right;
+    }
+
 }
 
 .logo img {
-    height: 100%;
-    object-fit: contain;
+    max-width: 82px;
 }
 
-.navigation.secondary-btn {
-    height: 100%;
+.btn-navigation.secondary-nav {
+    display: grid;
+    justify-items: center;
+    grid-template-areas: "up search"
+        "down search";
+    width: 50px;
+}
+
+.fa-angle-up {
+    grid-area: up;
+    align-self: end;
+}
+
+.fa-angle-down {
+    grid-area: down;
+    align-self: start;
+}
+
+.fa-search {
+    grid-area: search;
+    font-size: 16px;
+    align-self: center;
 }
