@@ -10583,7 +10583,8 @@ body {
   font-size: 2rem;
 }
 
-.btn-navigation.primary-nav .fa-arrow-left, .btn-navigation.primary-nav .fa-arrow-right {
+.btn-navigation.primary-nav .fa-arrow-left,
+.btn-navigation.primary-nav .fa-arrow-right {
   padding: 12px;
 }
 
@@ -10638,5 +10639,9 @@ body {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
+}
+
+.title-content {
+  margin: 0.5rem 0;
 }
 /*# sourceMappingURL=style.css.map */

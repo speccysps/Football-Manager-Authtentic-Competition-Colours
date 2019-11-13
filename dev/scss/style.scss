@@ -19,7 +19,8 @@ body {
     grid-template-areas: "left right";
     font-size: 2rem;
 
-    .fa-arrow-left, .fa-arrow-right{
+    .fa-arrow-left,
+    .fa-arrow-right {
         padding: 12px;
     }
 
@@ -59,4 +60,8 @@ body {
     grid-area: search;
     font-size: 16px;
     align-self: center;
+}
+
+.title-content {
+    margin: 0.5rem 0;
 }
