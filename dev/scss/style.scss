@@ -43,7 +43,8 @@ body {
     justify-items: center;
     grid-template-areas: "up search"
         "down search";
-    width: 50px;
+    grid-column-gap: 0.75rem;
+    padding: 0.75rem;
 }
 
 .fa-angle-up {
@@ -65,7 +66,7 @@ body {
 .title-content {
     margin: 0.5rem 0;
 
-    h2{
+    h2 {
         text-transform: uppercase;
         font-weight: 700;
     }
