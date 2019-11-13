@@ -11,7 +11,27 @@ body {
     height: 6rem;
 }
 
-.navigation.primary-btn {
-    background: blue;
+.primary-btn {}
+
+.navigation {
+    height: 100%;
+    width: 100px;
+
+    .fa {
+        color: blue
+    }
+}
+
+.logo {
+    height: inherit;
+    padding: 0.5rem;
+}
+
+.logo img {
+    height: 100%;
+    object-fit: contain;
+}
+
+.navigation.secondary-btn {
     height: 100%;
 }

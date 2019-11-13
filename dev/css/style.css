@@ -10571,8 +10571,27 @@ body {
   height: 6rem;
 }
 
-.navigation.primary-btn {
-  background: blue;
+.navigation {
+  height: 100%;
+  width: 100px;
+}
+
+.navigation .fa {
+  color: blue;
+}
+
+.logo {
+  height: inherit;
+  padding: 0.5rem;
+}
+
+.logo img {
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.navigation.secondary-btn {
   height: 100%;
 }
 /*# sourceMappingURL=style.css.map */
