@@ -10572,11 +10572,30 @@ body {
   padding-bottom: 0.5rem;
 }
 
+.btn-navigation.primary-nav {
+  display: -ms-grid;
+  display: grid;
+  justify-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+      grid-template-areas: "left right";
+  font-size: 2rem;
+}
+
+.btn-navigation.primary-nav .fa-arrow-left, .btn-navigation.primary-nav .fa-arrow-right {
+  padding: 12px;
+}
+
 .btn-navigation.primary-nav .fa-arrow-left {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
   grid-area: left;
 }
 
 .btn-navigation.primary-nav .fa-arrow-right {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
   grid-area: right;
 }
 

@@ -13,7 +13,15 @@ body {
 }
 
 .btn-navigation.primary-nav {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    grid-template-areas: "left right";
+    font-size: 2rem;
 
+    .fa-arrow-left, .fa-arrow-right{
+        padding: 12px;
+    }
 
     .fa-arrow-left {
         grid-area: left;
