@@ -47,6 +47,10 @@ body {
     padding: 0.75rem;
 }
 
+.fa-angle-up, .fa-angle-down{
+    font-size: 1.25rem;
+}
+
 .fa-angle-up {
     grid-area: up;
     align-self: end;
@@ -59,7 +63,7 @@ body {
 
 .fa-search {
     grid-area: search;
-    font-size: 16px;
+    font-size: 1.75rem;
     align-self: center;
 }
 
