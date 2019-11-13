@@ -1,0 +1,27 @@
+{
+  "name": "fm-authenticlicencefix",
+  "version": "1.0.0",
+  "description": "![Image of Licence Fix](https://i.ibb.co/hVhcTFx/Screenshot-2019-10-23-09-24-32.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spskeen/fm-authenticLicenceFix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spskeen/fm-authenticLicenceFix/issues"
+  },
+  "homepage": "https://github.com/spskeen/fm-authenticLicenceFix#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
