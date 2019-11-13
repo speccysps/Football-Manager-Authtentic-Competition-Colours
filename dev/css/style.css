@@ -10644,4 +10644,9 @@ body {
 .title-content {
   margin: 0.5rem 0;
 }
+
+.title-content h2 {
+  text-transform: uppercase;
+  font-weight: 700;
+}
 /*# sourceMappingURL=style.css.map */
