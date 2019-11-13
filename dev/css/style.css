@@ -10563,6 +10563,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 body {
+  background-color: #171719;
   font-family: "Libre Franklin", -apple-system, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #23FF75;
 }
