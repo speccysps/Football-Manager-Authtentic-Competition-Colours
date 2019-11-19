@@ -10563,13 +10563,13 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 body {
-  background-color: #171719;
+  background-color: #2E3033;
   font-family: "Libre Franklin", -apple-system, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #23FF75;
+  color: #FD9230;
 }
 
 .title-bar {
-  background: #29002E;
+  background: #121212;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
