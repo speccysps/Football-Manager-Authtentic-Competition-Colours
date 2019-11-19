@@ -192,6 +192,20 @@
 "COMP_COLOUR_CHANGE" 55006606 0 203 154 32 22 22 21 ""
 <!-- End -->
 
+## Mexico
+<!-- Start -->
+### Liga MX (White, Dark Blue)
+"COMP_COLOUR_CHANGE" 135973 0 255 255 255 10 24 54 ""
+### Ascenso MX (White, Light Blue)
+"COMP_COLOUR_CHANGE" 135974 0 255 255 255 35 113 190 ""
+### Copa MX (White, Green)
+"COMP_COLOUR_CHANGE" 51013962 0 255 255 255 18 139 45 ""
+### Campeón de Campeones (Gold, White)
+"COMP_COLOUR_CHANGE" 55666911 0 220 169 47 255 255 255 ""
+### Supercopa MX (Gold, Black)
+"COMP_COLOUR_CHANGE" 51045232 0 220 169 47 22 22 22 ""
+<!-- End -->
+
 # Youth Club
 # ------------------------------------------------------------------
 <!-- Start -->
