@@ -5,11 +5,11 @@
 body {
     background-color: #2E3033;
     font-family: $font-primary;
-    color: $europa-league-orange;
+    color: $foreground;
 }
 
 .title-bar {
-    background: $europa-league-black;
+    background-color: $background;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }

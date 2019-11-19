@@ -10565,11 +10565,11 @@ a.text-dark:hover, a.text-dark:focus {
 body {
   background-color: #2E3033;
   font-family: "Libre Franklin", -apple-system, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #FD9230;
+  color: #dca92f;
 }
 
 .title-bar {
-  background: #121212;
+  background-color: #161616;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
