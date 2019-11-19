@@ -159,7 +159,13 @@
 ## Russia
 <!-- Start -->
 ### Russian Premier League (White, Dark Blue)
-"COMP_COLOUR_CHANGE" 130486 0 255 255 255 18 15 55 ""
+"COMP_COLOUR_CHANGE" 130486 0 255 255 255 12 31 75 ""
+### Russian Football National League (White, Light Blue)
+"COMP_COLOUR_CHANGE" 130487 0 255 255 255 13 96 195 ""
+### Russian Cup (Gold, Red)
+"COMP_COLOUR_CHANGE" 130694 0 212 179 113 159 0 19 ""
+### Russian Super Cup (Gold, Red)
+"COMP_COLOUR_CHANGE" 8053978 0 212 179 113 159 0 19 ""
 <!-- End -->
 
 ## Netherlands
