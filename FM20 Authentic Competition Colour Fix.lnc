@@ -159,7 +159,13 @@
 ## Russia
 <!-- Start -->
 ### Russian Premier League (White, Dark Blue)
-"COMP_COLOUR_CHANGE" 130486 0 255 255 255 18 15 55 ""
+"COMP_COLOUR_CHANGE" 130486 0 255 255 255 12 31 75 ""
+### Russian Football National League (White, Light Blue)
+"COMP_COLOUR_CHANGE" 130487 0 255 255 255 13 96 195 ""
+### Russian Cup (Gold, Red)
+"COMP_COLOUR_CHANGE" 130694 0 212 179 113 159 0 19 ""
+### Russian Super Cup (Gold, Red)
+"COMP_COLOUR_CHANGE" 8053978 0 212 179 113 159 0 19 ""
 <!-- End -->
 
 ## Netherlands
@@ -190,6 +196,20 @@
 "COMP_COLOUR_CHANGE" 1301421 0 203 154 32 22 22 21 ""
 ### Taca De PLiga CTT (Gold, Black/Brown)
 "COMP_COLOUR_CHANGE" 55006606 0 203 154 32 22 22 21 ""
+<!-- End -->
+
+## Mexico
+<!-- Start -->
+### Liga MX (White, Dark Blue)
+"COMP_COLOUR_CHANGE" 135973 0 255 255 255 10 24 54 ""
+### Ascenso MX (White, Light Blue)
+"COMP_COLOUR_CHANGE" 135974 0 255 255 255 35 113 190 ""
+### Copa MX (White, Green)
+"COMP_COLOUR_CHANGE" 51013962 0 255 255 255 18 139 45 ""
+### Campeón de Campeones (Gold, White)
+"COMP_COLOUR_CHANGE" 5666911 0 220 169 47 255 255 255 ""
+### Supercopa MX (Gold, Black)
+"COMP_COLOUR_CHANGE" 51045232 0 220 169 47 22 22 22 ""
 <!-- End -->
 
 # Youth Club
