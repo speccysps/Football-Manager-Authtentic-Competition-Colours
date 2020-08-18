@@ -10,15 +10,15 @@
 
 1. Close or Quit the game (f the game is running).
 2. Extract the contents of the pack to a temporary location.
-3. Find the latest database folder (2010) 
+3. Find the latest database folder (2040) 
 ### Windows
 ```
-\Program Files (x86)\Steam\steamapps\common\Football Manager 2020\data\database\db\2010\
+\Program Files (x86)\Steam\steamapps\common\Football Manager 2020\data\database\db\2040\
 ```
 ### macOS
 ```
-/Users/[username]/Library/Application Support/Steam/steamapps/common/Football Manager 2020/database/data/db/2010/
+/Users/[username]/Library/Application Support/Steam/steamapps/common/Football Manager 2020/database/data/db/2040/
 ```
 
 4. Open the folder named `lnc` and then click into the `all` sub-folder. 
-5. Move the file you extracted into the `all` folder within `database\db\2010\lnc\all\`
+5. Move the file you extracted into the `all` folder within `database\db\2040\lnc\all\`
